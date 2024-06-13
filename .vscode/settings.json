@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "xmlrpc-2.0.jar",
+        "org-apache-commons-codec.jar",
+        "doc/org-apache-commons-codec.jar",
+        "doc/xmlrpc-2.0.jar"
+    ]
+}
